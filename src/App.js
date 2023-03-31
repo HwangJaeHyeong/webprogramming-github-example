@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-      App    
+      dev2    
     </div>
   );
 }
